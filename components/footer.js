@@ -17,7 +17,6 @@ class Footer extends HTMLElement {
         </div>
         <div class="col-sm-12 col-md-3 col-lg-3 titles-footer">
           <h6>Institucional</h6>
-          <p>Sobre Nós</p>
           <a class="text-footer" target="_blank" href="http://help.monkey.exchange/pt-BR/"><p>Dúvidas</p></a>
           <a class="text-footer" target="_blank" href="quem-somos.html"><p>Quem Somos</p></a>
         </div>
@@ -66,7 +65,7 @@ class Footer extends HTMLElement {
       <form onchange="selectLang()">
       <div class="m-0 lenguage-row">
         <div class="radio-input">
-          
+
           <label class="form-check-label" for="portuguesRadio">
           <a href="index.html">
             Português |

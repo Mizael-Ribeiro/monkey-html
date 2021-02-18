@@ -14,6 +14,9 @@ class NavBar extends HTMLElement {
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 container-nav m-0">
+          <li class="">
+            <a class="nav-link" href="index.html">Início</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Soluções
@@ -21,18 +24,18 @@ class NavBar extends HTMLElement {
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1">
               <a class="dropdown-item nav-link" href="fornecedor.html">Fornecedores</a>
               <a class="dropdown-item nav-link" href="investidor.html">Investidor</a>
-              <a class="dropdown-item nav-link" href="ancora.html">Empresas</a>
+              <a class="dropdown-item nav-link" href="ancora.html">Âncoras</a>
             </div>
           </li>
-          <li class="nav-item dropdown">
+          <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Produtos
           </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <div class="dropdown-menu hiden" aria-labelledby="navbarDropdownMenuLink">
             <a class="dropdown-item nav-link" href="#">Supply Chain Finance</a>
             <a class="dropdown-item nav-link" href="#">Spike</a>
           </div>
-        </li>
+        </li> -->
           <li class="">
             <a class="nav-link" href="quem-somos.html">Quem Somos</a>
           </li>
